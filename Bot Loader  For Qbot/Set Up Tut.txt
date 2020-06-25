@@ -1,4 +1,3 @@
-Better Scan V1 Set Up
 1.) Put Your Payload In "payload.pl"
 2.) Put Your Payload In "tel_brute.py"
 3.) Put Your Payload In "tel_load.py"
